@@ -8,4 +8,4 @@ function reverse(n) {
   return reveresd;
 }
 
-console.log(reverse(12));
+console.log(reverse(1226));
